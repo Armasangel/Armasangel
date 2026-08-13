@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Armasangel/Armasangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Angel Antonio Armas Hernández
 
-Here are some ideas to get you started:
+Computer Science student at Universidad del Valle de Guatemala.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## About me
+I build academic and personal software projects while exploring different areas
+of software development. My current interests include backend development,
+software design, web applications and data-related systems.
+
+## Featured Projects
+- [Gacha Gear Analyzer] — https://github.com/Armasangel/Gacha-Gear-Predictor
+- [Inventory Management System] — https://github.com/Armasangel/Proyecto-Ing-Software1.git
+- [Future Fleet Control System] — 
+
+## Technologies I've worked with
+Java · Python · JavaScript · SQL · React · Next.js · Django · Express · PostgreSQL · Flutter
+
 -->
